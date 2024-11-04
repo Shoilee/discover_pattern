@@ -1,0 +1,3 @@
+[submodule "hypodisc"]
+	path = hypodisc
+	url = git@gitlab.com:wxwilcke/hypodisc.git
