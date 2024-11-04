@@ -1,0 +1,11 @@
+# Data Files
+nmvw_data
+
+# System Generated Files
+.DS_Store
+.idea/
+hypodisc/
+package-list.txt
+package.txt
+requirements.txt
+
