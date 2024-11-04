@@ -2,7 +2,7 @@ import rdflib
 import isodate
 
 # Dataset object documentation: https://rdflib.readthedocs.io/en/stable/apidocs/rdflib.html#rdflib.graph.Dataset
-def run(input_file, output_path, target_graph):
+def run(input_file, output_path, target_graph=1):
     counter = 0
     d = rdflib.Dataset()
     try:
